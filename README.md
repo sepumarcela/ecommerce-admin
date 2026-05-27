@@ -2,6 +2,10 @@
 
 Panel de control para gestionar el inventario de productos de una tienda en línea. Desarrollado como prueba técnica para el cargo de Desarrollador Frontend Junior.
 
+## 🌍 Demo en vivo
+
+https://ecommerce-admin-ashen-tau.vercel.app
+
 ## 🚀 Stack Tecnológico
 
 - **Framework:** React.js + Vite
